@@ -3,7 +3,6 @@
 ## 📌 Overview
 This project merges student grade data from multiple **lecture sections** and **lab sections**, calculates their overall performance based on defined weight percentages, and generates a consolidated **CSV grade report**.
 
-It was developed as part of a programming assignment for **CHEM111 Student File Merging**.
 
 ---
 
