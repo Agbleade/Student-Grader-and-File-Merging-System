@@ -1,4 +1,4 @@
-# Student Grade Merger and Analyzer
+# Student Grading and File Mergin System
 
 ## 📌 Overview
 This project merges student grade data from multiple **lecture sections** and **lab sections**, calculates their overall performance based on defined weight percentages, and generates a consolidated **CSV grade report**.
